@@ -8,8 +8,8 @@ Python learner interested in automation and data analysis.
 
 ## Projects
 
-- CSV Statistics Analyzer
-- Driver Telemetry Analyzer
+- 📊 [CSV Statistics Analyzer](https://github.com/JanHanzlik/csv-statistics-analyzer)
+- 🚗 [Driver Telemetry Analyzer](https://github.com/JanHanzlik/driver-telemetry-analyzer)
 
 ## Technologies
 
