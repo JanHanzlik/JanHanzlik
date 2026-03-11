@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-learning-orange)
+
 ## Hi, I'm Jan 👋
 
 Python learner interested in automation and data analysis.
