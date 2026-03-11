@@ -17,3 +17,16 @@ Python learner interested in automation and data analysis.
 - pandas
 - matplotlib
 - CSV data processing
+
+## Learning
+
+Currently learning:
+
+- data analysis with pandas
+- Python automation
+- data visualization
+- Git and GitHub
+
+- ## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanHanzlik&show_icons=true&theme=dark)
