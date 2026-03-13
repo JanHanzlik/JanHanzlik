@@ -2,9 +2,9 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-learning-orange)
 
-## Hi, I'm Jan 👋
-
-Python learner interested in automation and data analysis.
+## Hi, I'm Jan 👋  
+Junior Python developer focused on automation, data analysis, and practical CLI tools.  
+I build small projects with Python, pandas, and matplotlib while improving my Git and GitHub skills.
 
 ## Projects
 
@@ -27,6 +27,6 @@ Currently learning:
 - data visualization
 - Git and GitHub
 
-- ## GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanHanzlik&show_icons=true&theme=dark)
